@@ -1,0 +1,12 @@
+[
+    {
+        "complemento":"Perto do supermercado",
+        "logradouro":"Rua Dez, 345",
+        "cep":"13400123"
+    },
+    {
+        "complemento":"Perto do Sesi",
+        "logradouro":"Av Batata Frita, 12",
+        "cep":"13900456"
+    }
+]
